@@ -1,16 +1,16 @@
-## Hi there 👋
+# Yassin
 
-<!--
-**everythingBlackkk/everythingBlackkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey everyone! I'm **Yassin** — passionate about software development and in love with the world of hacking. I enjoy discovering critical vulnerabilities, diving into malware development and analysis, and exploring Active Directory attacks.
 
-Here are some ideas to get you started:
+I code in **C** and **Python**, and I’m always excited to learn something new in this fascinating field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* **Programming Languages:** C, Python
+* **Areas of Interest:** Vulnerability Research, Malware Development & Analysis, Active Directory Attacks
+
+[ My Blog ](https://everythingblackkk.gitbook.io/everythingblackkk)
+[ X ](https://x.com/0xblackkk)
+[ Linkedin ](https://www.linkedin.com/in/everythingblackkk/)
+
+> "Always learning — a good hacker is a curious learner."
