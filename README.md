@@ -6,8 +6,8 @@ I code in **C** and **Python**, and I’m always excited to learn something new 
 
 ## Skills
 
-* **Programming Languages:** C, Python
-* **Areas of Interest:** Vulnerability Research, Malware Development & Analysis, Active Directory Attacks
+* **Programming Languages:** C , Java , Python
+* **Areas of Interest:** Vulnerability Research, Malware Development & Analysis, Active Directory Enum & Attacks
 
   My Blog     ->  https://everythingblackkk.gitbook.io/everythingblackkk
   
