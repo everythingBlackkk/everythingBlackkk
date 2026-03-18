@@ -4,6 +4,8 @@ Hey everyone! I'm **Yassin** 19y — passionate about software development and i
 
 I code in **C** and **Python**, and I’m always excited to learn something new in this fascinating field.
 
+## Found : CVE-2026-33177
+
 ## Skills
 
 * **Programming Languages:** C , Java , Python
