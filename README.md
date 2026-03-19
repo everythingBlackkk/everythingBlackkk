@@ -4,10 +4,19 @@ Hey everyone! I'm **Yassin** 19y — passionate about software development and i
 
 I code in **C** and **Python**, and I’m always excited to learn something new in this fascinating field.
 
-## My CVEs 3x
-#### Found : CVE-2026-4420   (bludit cms)   Stored XSS
-#### Found : CVE-2026-33177 (statamic cms) Broken Access Control
-#### Found : CVE-2026-27593 (statamic cms) Account Takeover
+## My Discovered CVEs (3)
+
+### 1. CVE-2026-4420 — Bludit CMS (Stored XSS)
+- Type: Stored Cross-Site Scripting (XSS)
+- Link: https://www.cve.org/CVERecord?id=CVE-2026-4420
+
+### 2. CVE-2026-33177 — Statamic CMS (Broken Access Control)
+- Type: Broken Access Control
+- Link: https://github.com/advisories/GHSA-wh3h-gvc4-cc2g
+
+### 3. CVE-2026-27593 — Statamic CMS (Account Takeover)
+- Type: Account Takeover
+- Link: https://github.com/advisories/GHSA-jxq9-79vj-rgvw
 
 ## Skills
 
