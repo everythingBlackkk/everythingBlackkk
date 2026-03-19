@@ -10,7 +10,7 @@ I code in **C** and **Python**, and I’m always excited to learn something new 
 
 ## Skills
 
-* **Programming Languages:** C , Java , Python
+* **Programming Languages:** C/C++ , Java , Python , PHP
 * **Areas of Interest:** Vulnerability Research , Malware Development & Analysis, Active Directory Enum & Attacks , Web & Android pentet.
 
   My Blog     ->  https://everythingblackkk.gitbook.io/everythingblackkk
