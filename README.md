@@ -1,8 +1,14 @@
 # everythingBlackkk
 
-Hey everyone! I'm **Yassin** 19y — passionate about software development and in love with the world of hacking. I enjoy discovering critical vulnerabilities, diving into malware development and analysis, and exploring Active Directory attacks.
+Hey, I'm Yassin 19y .
 
-I code in **C** and **Python**, and I’m always excited to learn something new in this fascinating field.
+I specialize in vulnerability research, I actively hunt for critical bugs and have experience across Web, Android, and Network penetration testing.
+
+I work with C/C++ & Python & Java, constantly pushing to learn, break, and understand systems deeper.
+
+GitHub: https://github.com/everythingBlackkk/
+
+Blog: https://everythingblackkk.gitbook.io/everythingblackkk
 
 ## My Discovered CVEs (3)
 
