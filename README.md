@@ -6,10 +6,6 @@ I specialize in vulnerability research, I actively hunt for critical bugs and ha
 
 I work with C/C++ & Python & Java, constantly pushing to learn, break, and understand systems deeper.
 
-GitHub: https://github.com/everythingBlackkk/
-
-Blog: https://everythingblackkk.gitbook.io/everythingblackkk
-
 ## My Discovered CVEs (3)
 
 ### 1. CVE-2026-4420 — Bludit CMS (Stored XSS)
