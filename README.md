@@ -23,7 +23,7 @@ I work with C/C++ & Python & Java, constantly pushing to learn, break, and under
 ## Skills
 
 * **Programming Languages:** C/C++ , Java , Python , PHP
-* **Areas of Interest:** Vulnerability Research , Malware Development & Analysis, Active Directory Enum & Attacks , Web & Android pentet.
+* **Areas of Interest:** Vulnerability Research , Malware Development & Analysis, Active Directory Enum & Attacks , Web & Android & Network pentet.
 
   My Blog     ->  https://everythingblackkk.gitbook.io/everythingblackkk
   
